@@ -9,7 +9,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the data
-file_path = r"C:\Users\msark\Downloads\Diabetes-Prediction-using-ML-main\Diabetes-Prediction-using-ML-main\diabetes_prediction_dataset.csv"
+file_path = r"C:\Users\hnand\Downloads\Diabetes-Prediction-using-ML-main\Diabetes-Prediction-using-ML-main\diabetes_prediction_dataset.csv"
 
 df = pd.read_csv(file_path)
 
