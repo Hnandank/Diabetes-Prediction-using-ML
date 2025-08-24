@@ -5,7 +5,7 @@
 This project implements a web application for predicting diabetes based on machine learning models. It uses a Random Forest classifier trained on a dataset containing features like age, hypertension, heart disease, gender, smoking history, BMI, HbA1c level, and blood glucose level.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/arkajkesav/Diabetes-Prediction-using-ML.git`
+1. Clone the repository: `git clone https://github.com/Hnandank/Diabetes-Prediction-using-ML.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python app.py`
 4. Open your web browser and go to http://127.0.0.1:5000/ to use the prediction form.
